@@ -1,0 +1,15 @@
+for next update will be include some fitur:
+1. choice diferent database.
+2. making multiple database.
+3. making report window for "Enofa Number not report" can be read by human
+4. can export report for "Enofa Number not Report" to csv, text and etc
+5. availabe to github Reposity and can contribute in there
+6. message window for commpelete action (input enofa ref, store enofa ref, etc)
+
+
+bug fixed:
+1. limited input enofa ref just 13 Number
+2. input enofa ref just number not character or other
+3. clean from "print value for debug"
+
+
